@@ -1,5 +1,11 @@
 # @zaher-aa/core
 
+## 2.1.0
+
+### Minor Changes
+
+- 4626715: changed button background color to red
+
 ## 2.0.0
 
 ### Major Changes
